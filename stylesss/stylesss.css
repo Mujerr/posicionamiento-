@@ -1,0 +1,22 @@
+
+div{
+    background-color: rgb(0, 238, 255);
+    border-style: solid;
+    border-color: rgb(65, 65, 134);
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-width: 2.5px;
+}
+#d1{
+    left: 150px;
+}
+.d2{
+    left: 300px;
+}
+#d2{
+    left: 450px;
+}
+.d3{
+    left: 600px;
+}
